@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Creepster&family=Itim&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+IN:wght@100..400&family=Rammetto+One&family=Rubik+Wet+Paint&display=swap');
+body{
+    text-align: center;
+    background-color: darkblue;
+}
+#userName{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: "Anton SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: darkcyan;
+}
+.border{
+    border: 3px solid rgb(2, 2, 41);
+}
+#userName:hover{
+    color: aqua;
+}
